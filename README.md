@@ -1,2 +1,2 @@
 # LavaNet
-A model developed to automate seafloor morphology classification.
+A model developed to automate seafloor morphology/lava texture classification.
